@@ -26,7 +26,7 @@ Clone the repository and run the app locally:
 git clone https://github.com/AliDeli80/pizza-menu.git
 cd pizza-menu
 npm install
-or npm start for Create React App
+or npm start
 ```
 
 ## 🔄 Planned Updates
