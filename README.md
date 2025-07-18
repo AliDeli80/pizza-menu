@@ -23,10 +23,10 @@
 Clone the repository and run the app locally:
 
 ```bash
-git clone https://github.com/your-username/pizza-menu.git
+git clone https://github.com/AliDeli80/pizza-menu.git
 cd pizza-menu
 npm install
-npm run dev     # or npm start for Create React App
+or npm start for Create React App
 ```
 
 ## 🔄 Planned Updates
