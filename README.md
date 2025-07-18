@@ -26,7 +26,7 @@ Clone the repository and run the app locally:
 git clone https://github.com/AliDeli80/pizza-menu.git
 cd pizza-menu
 npm install
-or npm start
+npm start
 ```
 
 ## 🔄 Planned Updates
