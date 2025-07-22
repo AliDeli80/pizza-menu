@@ -42,5 +42,5 @@ Contributions are welcome! Feel free to fork the repo, create a feature branch, 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
 
-## 👨‍🍳 Author
-GitHub: AliDeli80
+## 👨‍💻 Author
+AliDeli80
